@@ -20,7 +20,7 @@ export default function Banner() {
                 Contact<span className="hidden sm:inline"> us</span>
               </a>{' '}
               <span className="italic px-1.5">or</span>{' '}
-              <a className="font-medium hover:underline text-emerald-400" href="marcelinengineering.com" target="_blank" rel="noreferrer">
+              <a className="font-medium hover:underline text-emerald-400" href="/" target="_blank" rel="noreferrer">
                 See more of what we do
               </a>
             </div>
