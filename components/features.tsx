@@ -6,8 +6,15 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority of our competitors do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">But we do.</p>
+            <h2 className="h2 mb-4">An engineering firm that handles every aspect of residential and commercial design </h2>
+            <p className="text-xl text-gray-400">Marcelin Engineering is a local certified DBE engineering firm in New Orleans, founded by Sundiata Marcelin, that focuses on civil and structural engineering, permitting, construction management, drafting, and design services, with a strong emphasis on community service and providing technical jobs and training to underserved communities in the Greater New Orleans Area.
+
+
+
+
+
+
+</p>
           </div>
 
           {/* Items */}
@@ -45,7 +52,7 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Proficient at complex design</h4>
+              <h4 className="h4 mb-2">Proficient at complexity</h4>
               <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
             </div>
 
